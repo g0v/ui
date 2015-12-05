@@ -15,4 +15,5 @@ ui design
 3. 填坑 (等待沒有人 pull request)
 
 
-Slack #designer
+#Slack
+\#designer
