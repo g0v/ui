@@ -8,12 +8,14 @@
 	color: #ffffff;
 	font-weight: bold;
 }
+.hero-text p{
+	color: #d8d8d8;
+}
 .arrowdown-wrapper{
   width: 100%;
   text-align: center;
   margin-top: 60px;
 }
-
 .arrowdown{
   display: inline-block;
   z-index: 100;
@@ -85,4 +87,7 @@
     top:-24px;
     white-space: nowrap;
     text-shadow: 0px 0px 5px #333;
+}
+.github-tutorial img{
+	margin-bottom: 20px;
 }
