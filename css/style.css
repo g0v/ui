@@ -3,6 +3,7 @@
 }
 .jumbotron{
 	background-color: #009688;
+	margin-bottom: 0px;
 }
 .hero-text h1{
 	color: #ffffff;
@@ -88,6 +89,30 @@
     white-space: nowrap;
     text-shadow: 0px 0px 5px #333;
 }
+.intro{
+	background-color: #e4e4e4;
+	padding: 20px;
+}
+.intro .page-header{
+	margin: 0px;
+	border: none;
+}
+.page-header h3{
+	color: #3e3e3e;
+}
+.github-tutorial{
+	margin-top: 30px;
+}
 .github-tutorial img{
 	margin-bottom: 20px;
 }
+
+
+
+
+
+
+
+
+
+
