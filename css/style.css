@@ -93,13 +93,19 @@
 	background-color: #e4e4e4;
 	padding: 20px;
 }
+.page-header{
+	border: none;
+}
 .intro .page-header{
 	margin: 0px;
-	border: none;
 }
 .page-header h3{
 	color: #3e3e3e;
 }
+.intro-columns img{
+	padding: 30px;
+}
+
 .github-tutorial{
 	margin-top: 30px;
 }
