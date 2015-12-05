@@ -20,3 +20,7 @@ ui design
 
 #Hackpad
 https://g0v.hackpad.com/G0V-UI-Mb2yoaVY378
+
+# 授權
+CC-BY-SA
+By g0v (在每一個component上會comment上designer與programmer）
