@@ -13,3 +13,6 @@ ui design
   - 建立元件的 file, 裡面的code可以都先不寫
 
 3. 填坑 (等待沒有人 pull request)
+
+
+Slack #designer
